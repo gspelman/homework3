@@ -40,23 +40,29 @@ p{
 
 a{
   font-size: 16px;
-  color: #B92751;
-  text-decoration-style: wavy;
+  color: #B21F50;
+  text-decoration-style: wavy;  
   text-decoration: underline;
   
-
 }
 
 table{
     border: 2px solid #000000;
     border-radius: 10px;
     border-spacing: 0px;
+    margin-right: auto;
+    margin-left: auto; 
 }
 
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
   padding: 10px;
+  min-width: 125px; 
+  text-transform: uppercase;
+  vertical-align: middle;
+  text-align: center;
+ 
 }
 
 .rowhead{
@@ -64,6 +70,7 @@ table{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   text-align: center;
+  vertical-align: center;
   
 
 }
