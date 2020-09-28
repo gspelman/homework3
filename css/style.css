@@ -55,13 +55,14 @@ table{
 }
 
 .colhead{
-  background-color: #7e0830;
+  background-color: #7e0820;
   color: #FFFFFF;
   padding: 10px;
   min-width: 125px; 
   text-transform: uppercase;
   vertical-align: middle;
   text-align: center;
+  margin: auto;
  
 }
 
