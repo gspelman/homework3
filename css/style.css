@@ -13,6 +13,7 @@ body{
   font-size: 16px;
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
+  background: url('../images/pigeon-background.JPEG') #DDDDDD;
   background-size: cover ;
   background-position: center;
 }
@@ -24,17 +25,25 @@ main{
 h1{
   color: #c12258;
   font-size: 2em;
+  line-height: 200%;
+  text-align: center;
 }
 
 caption{
   margin:5px 0px;
+  text-align: center;
 }
 
 p{
-
+  padding-top: 15px;
 }
 
 a{
+  font-size: 16px;
+  color: #B92751;
+  text-decoration-style: wavy;
+  text-decoration: underline;
+  
 
 }
 
