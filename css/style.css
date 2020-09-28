@@ -49,14 +49,22 @@ a{
 
 table{
     border: 2px solid #000000;
+    border-radius: 10px;
+    border-spacing: 0px;
 }
 
 .colhead{
   background-color: #7e0830;
   color: #FFFFFF;
+  padding: 10px;
 }
 
 .rowhead{
+
+  border-top: 2px solid #000000;
+  border-right: 2px solid #000000;
+  text-align: center;
+  
 
 }
 
@@ -76,6 +84,7 @@ thead tr:first-child th:first-child{}
 
 footer{
   width:100%;
+  min-hight: 75px;
   background:#000000;
   text-align:center;
   color: #FFFFFF;
