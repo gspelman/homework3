@@ -69,14 +69,17 @@ table{
 }
 
 td{
-  
+  padding: 10px;
+  border-top: 2px solid #000000;
+  text-align: center;
 }
 
 tr{
 
 }
 
-*{
+*:focus{
+  border: 3px dashed #417243;
 
 }
 
@@ -88,5 +91,6 @@ footer{
   background:#000000;
   text-align:center;
   color: #FFFFFF;
+  position: fixed;
 }
 
