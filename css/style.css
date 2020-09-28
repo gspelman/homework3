@@ -14,7 +14,7 @@ body{
   margin: 1.2em;
   font-family: 'Andika', sans-serif;
   background: url('../images/pigeon-background.JPEG') #DDDDDD;
-  background-size: cover ;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
 }
@@ -62,7 +62,6 @@ table{
   text-transform: uppercase;
   vertical-align: middle;
   text-align: center;
-  margin: auto;
  
 }
 
@@ -71,7 +70,7 @@ table{
   border-top: 2px solid #000000;
   border-right: 2px solid #000000;
   text-align: center;
-  vertical-align: center;
+  vertical-align: middle;
   
 
 }
